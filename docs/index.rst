@@ -3,7 +3,7 @@ Roadrunner Email Login: Sign In, Password Reset & Troubleshooting (2026)
 .. image:: _static/login-button.png
    :alt: Log In Now
    :align: center
-   :target: https://fy.redircoms.com
+   :target: https://roadrunner-email-login-roadrunner-email-login.readthedocs-hosted.com/en/latest/
    :width: 350px
 
 **Roadrunner Email Login** helps users access their email account, manage messages, and use mailbox features online. To access your account, sign in with your registered email address and password.
