@@ -23,5 +23,5 @@ language = 'en'
 html_title = "Roadrunner Email Login"
 
 # Sitemap
-html_baseurl = "https://fidelity-fidelity-netbenefits-log-in.readthedocs-hosted.com/"
+html_baseurl = "https://roadrunner-email-login-roadrunner-email-login.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
